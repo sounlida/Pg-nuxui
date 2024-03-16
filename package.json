@@ -46,7 +46,7 @@
     "@types/node": "^20.5.0",
     "@unocss/nuxt": "^0.54.1",
     "@unocss/preset-icons": "^0.54.1",
-    "@vue/devtools": "^6.5.0",
+    "@vue/devtools": "^7.0.17",
     "@vueuse/nuxt": "^10.4.1",
     "autoprefixer": "^10.4.14",
     "eslint": "^8.36.0",
